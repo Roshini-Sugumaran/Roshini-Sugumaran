@@ -10,7 +10,6 @@ Hi, I'm Roshini Sugumaran ! I'm a passionate Machine learning Engineer with focu
 - 🤝 I’m looking to collaborate on **open-source projects**
 - 💬 Ask me about **Python**
 - 📫 How to reach me: [roshinisugumaran@outlook.com](roshinisugumaran@outlook.com)
-- ⚡ Fun fact: I can solve a Rubik's cube in under a minute!
 
 ## 📫 Connect with Me
 
